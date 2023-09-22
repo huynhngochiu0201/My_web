@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    border: 0;
+}
+h1{
+   padding-bottom: 4%;
+  
+}
+.boxed{
+    width: 550px;
+    height: 50px;
+    border: 1px solid #18a234;
+    border-radius: 5px;
+}
+.img1{
+    width: 40%;
+}
+.svgInject{
+    width: 25px;
+}
+.tog{
+   padding-top: 2%;
+   padding-bottom: 3%;
+}
+.header-action-icon-2{
+    padding-left: 5%;
+    
+}
+
+aside{
+    padding-left: 10%;
+    padding-right: 10%;
+   
+}
+.cach1{padding-left: 10%;
+    padding-top: 3%;}
+img {
+    width: 100%;
+   
+}
+.card-group{
+    width: 35%;
+}
+.Grid{
+    padding-top: 4%;
+    
+}
+.card-title {
+    font-size: 12px; 
+    font-weight: bold; 
+    
+}
+h3{
+    text-align: left;
+}
+hr{
+    width: 100%;
+}
+.card{
+    background: #EEEEEE;
+}
+aside img{
+    width: 100%;
+    padding-bottom: 4%;
+
+}
+footer{
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+.contact-infor img{
+    width: 15px;
+}
+
+
+footer img{
+    width: 60%;
+}
+
+.widget-about .logo a {
+    display: flex;
+    align-items: center;
+}
+.footer-list li::before {
+    content: none; 
+}
+.widget-about .logo img {
+    margin-right: 10px; /* Khoảng cách giữa ảnh và chữ */
+}
+.move-left {
+    text-align: left;
+}
+.carousel-caption h2,
+  .carousel-caption p,
+  .carousel-caption .btn {
+    color: black;
+  }
+  .login-text {
+    color: rgba(12, 183, 86, 0.725); /* Thay đổi màu chữ thành màu xanh */
+}
+.img_banner{
+    width: 150%;
+}
+aside{
+    padding: 5%;
+}
+.xuog1{
+    
+}

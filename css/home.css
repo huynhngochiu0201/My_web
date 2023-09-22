@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    border: 0;
+}
+.boxed{
+    width: 550px;
+    height: 50px;
+    border: 1px solid #18a234;
+    border-radius: 5px;
+}
+.tog{
+   padding-top: 2%;
+   padding-bottom: 3%;
+}
+.header-action-icon-2{
+    padding-left: 5%;
+    
+}
+.form-control{
+    padding: 5%;
+    
+}
+.login-text {
+    color: rgba(12, 183, 86, 0.725); /* Thay đổi màu chữ thành màu xanh */
+}
+.stt1{
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+.stt2{
+    
+    padding-bottom: 20px;
+}
+.stt3{
+  
+    padding-bottom: 20px;
+}
+.stt4{
+   
+    padding-bottom: 20px;
+}
+.w20{
+    padding-left: 20%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+footer{
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+.contact-infor img{
+    width: 15px;
+}
+
+footer img{
+    width: 60%;
+}
+
+
